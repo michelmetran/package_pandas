@@ -1,3 +1,3 @@
-# _Folium_
+# _Pandas_
 
-Referências do package _Folium_.
+Referências do package Pandas_.
